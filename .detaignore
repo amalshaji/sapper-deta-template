@@ -1,0 +1,7 @@
+node_modules
+scripts
+scr
+package-lock.json
+README.md
+rollup.config.js
+__sapper__/dev
