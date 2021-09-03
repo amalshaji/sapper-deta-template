@@ -19,3 +19,7 @@ make deploy
 npm run build # to build the sapper project into the __sapper__ directory
 deta deploy # make sure the project is initialized with deta
 ```
+
+# Deploy this template
+
+[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy)
