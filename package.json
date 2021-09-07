@@ -11,8 +11,7 @@
   "dependencies": {
     "compression": "^1.7.1",
     "express": "^4.17.1",
-    "sapper-page-loading-bar": "^1.0.0",
-    "sirv": "^1.0.0"
+    "sapper-page-loading-bar": "^1.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
